@@ -1,0 +1,11 @@
+{
+  "name": "besthomes-crm",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CRM for Best Homes Support: customers, sales team, deals, tasks, revenue reports and notifications.",
+  "type": "module",
+  "engines": { "node": ">=22.13" },
+  "scripts": {
+    "start": "node --disable-warning=ExperimentalWarning server.js"
+  }
+}
